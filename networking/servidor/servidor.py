@@ -81,6 +81,14 @@ if __name__ == "__main__":
 Comentarios:
     - El crear y borrar son operaciones sensibles.
         ¿Que deberiamos hacer para proteger la información?
-    - No estan todas las verificaciones
+    - No estan todas las verificaciones.
+    - Sobre la duda de frontend, backend y API, una forma de verlo es:
+        * FRONTEND: lo que el usuario puede ver
+        * BACKEND: la lógica de la aplicación
+        * API: Expone las reglas de comunicación entre frontend (cliente)
+        *       al servidor (backend)
+        En nuestro ejemplo las funciones formarian parte del backend, y 
+        la API son los endpoints, los metodos y las respuestas entregadas
+        (implementado como decoradores)
     - data.json fue generado por GPT-5.3 mini.
 """
