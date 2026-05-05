@@ -1,0 +1,77 @@
+{
+    "mascotas": [
+        {
+            "id": 1,
+            "nombre": "Luna",
+            "dueno": "Carlos Perez",
+            "raza": "Golden Retriever",
+            "edad": 3
+        },
+        {
+            "id": 2,
+            "nombre": "Sol",
+            "dueno": "Carlitos Perez",
+            "raza": "Serpiente",
+            "edad": 5
+        },
+        {
+            "id": 3,
+            "nombre": "Milo",
+            "dueno": "Juan Rodriguez",
+            "raza": "Beagle",
+            "edad": 2
+        },
+        {
+            "id": 4,
+            "nombre": "Nala",
+            "dueno": "Maria Gonzalez",
+            "raza": "Siames",
+            "edad": 4
+        },
+        {
+            "id": 5,
+            "nombre": "Rocky",
+            "dueno": "Pedro Sanchez",
+            "raza": "Pastor Aleman",
+            "edad": 6
+        },
+        {
+            "id": 6,
+            "nombre": "Kira",
+            "dueno": "Fernanda Diaz",
+            "raza": "Husky Siberiano",
+            "edad": 3
+        },
+        {
+            "id": 7,
+            "nombre": "Simba",
+            "dueno": "Luis Herrera",
+            "raza": "Maine Coon",
+            "edad": 5
+        },
+        {
+            "id": 8,
+            "nombre": "Toby",
+            "dueno": "Valentina Rojas",
+            "raza": "Poodle",
+            "edad": 1
+        },
+        {
+            "id": 9,
+            "nombre": "Coco",
+            "dueno": "Diego Fernendez",
+            "raza": "Labrador",
+            "edad": 4
+        },
+        {
+            "id": 10,
+            "nombre": "Bobby",
+            "dueno": "Camila Torres",
+            "raza": "Chihuahua",
+            "edad": 2
+        }
+    ],
+    "meta": {
+        "index_count": 10
+    }
+}
