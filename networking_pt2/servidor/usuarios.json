@@ -1,0 +1,18 @@
+{
+    "usuarios": [
+        {
+            "nombre": "usuario_1",
+            "contrasena": "contrasena_segura",
+            "archivos": [
+                "cat_server_1.png"
+            ]
+        },
+        {
+            "nombre": "usuario_2",
+            "contrasena": "qwertuiop",
+            "archivos": [
+                "cat_server_2.png"
+            ]
+        }
+    ]
+}
